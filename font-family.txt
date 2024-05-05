@@ -1,0 +1,16 @@
+font-family: menetapkan jenis font yang akan diterapkan pada target.
+font-size: menentukan ukuran pada teks.
+font-weight: menentukan ketebalan pada teks. 
+font-style: menetapkan styling yang diterapkan pada teks.
+font-variant: menentukan teks untuk menggunakan gaya small caps (huruf kapital kecil).
+font: sebagai shorthand dari properti font yang ada.
+
+Serif: jenis font yang memiliki runcing pada garis akhir karakternya. Times New Roman merupakan salah satu jenis serif font.
+Sans-serif: jenis font yang tidak meruncing pada garis akhir karakternya. Contohnya, “Open Sans”, “Fira Sans” dan lainnya.
+Monospace: jenis font yang memiliki nilai lebar tiap karakternya sama. Consolas merupakan salah satu jenisnya.
+Cursive: jenis font yang tampak seperti handwriting atau hasil tulisan tangan.
+Fantasy: jenis font yang merepresentasikan karakteristik yang menyenangkan.
+System-ui: jika menerapkan nilai ini maka font yang diterapkan akan sama seperti font yang digunakan pada sistem operasi kita.
+Math: jenis font yang digunakan untuk penulisan rumus-rumus matematika.
+Emoji: jenis font yang digunakan untuk menampilkan emoji.
+Fangsong: jenis font yang menampilkan gaya penulisan Chinese.

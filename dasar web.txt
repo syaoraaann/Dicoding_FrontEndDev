@@ -1,0 +1,13 @@
+Pengertian dari web server sebenarnya lebih merujuk pada sebuah software yang dapat menghubungkan sebuah komputer dengan komputer lain.
+
+Pada dasarnya, website dibangun dengan tiga buah fondasi utama:
+
+HTML: sebuah markup language yang menentukan struktur atau kerangka dari halaman web;
+CSS: sebuah markup language yang memberikan gaya atau styling agar halaman web ditampilkan lebih ciamik; dan
+JavaScript: satu-satunya programming language yang didukung oleh browser untuk meningkatkan interaktivitas pada halaman web.
+
+Pada HTML terdapat tiga tipe list.
+
+Unordered lists: daftar yang ditampilkan tidak memiliki urutan. 
+Ordered lists: daftar yang ditampilkan secara terurut.
+Description lists: daftar yang terbuat dari beberapa istilah diikuti dengan deskripsi dari istilah tersebut.
